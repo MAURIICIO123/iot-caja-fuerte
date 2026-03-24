@@ -1,0 +1,38 @@
+# ==============================
+# 🐍 Python / Flask
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Archivos temporales de Python
+*.log
+*.tmp
+
+# ==============================
+# 🌱 Entorno virtual
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+
+# ==============================
+# 🔐 Variables de entorno
+# ==============================
+.env
+.env.*
+*.env
+
+# ==============================
+# 🧪 Flask
+# ==============================
+instance/
+.webassets-cache
+
+
+# (Opcional: si guardas backups locales)
+backup/
+
