@@ -1,5 +1,5 @@
 # ==============================
-# 🐍 Python / Flask
+#  Python / Flask
 # ==============================
 __pycache__/
 *.py[cod]
@@ -12,7 +12,7 @@ __pycache__/
 *.tmp
 
 # ==============================
-# 🌱 Entorno virtual
+#  Entorno virtual
 # ==============================
 venv/
 env/
@@ -20,19 +20,19 @@ env/
 ENV/
 
 # ==============================
-# 🔐 Variables de entorno
+# Variables de entorno
 # ==============================
 .env
 .env.*
 *.env
 
 # ==============================
-# 🧪 Flask
+#  Flask
 # ==============================
 instance/
 .webassets-cache
 
 
-# (Opcional: si guardas backups locales)
+# Copias de seguridad
 backup/
 
